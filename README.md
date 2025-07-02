@@ -11,7 +11,6 @@
 ## 📚 Table of Contents
 - [Project Overview](#-project-overview)
 - [Features](#-features)
-- [Screenshots](#-screenshots)
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
 - [Build for Production](#-build-for-production)
@@ -54,15 +53,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-> _Add your own screenshots here!_
-
-| Dashboard | Learning Mode | Quiz |
-|-----------|--------------|------|
-| ![Dashboard](public/assets/1.png) | ![Learning](public/vid/v1.png) | ![Quiz](public/music/mm1.png) |
-
----
 
 ## 🛠️ Tech Stack
 
